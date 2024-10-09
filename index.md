@@ -160,6 +160,6 @@ Welcome to the Midnight Hack! 🦇 By day, I'm Ezequiel☠️💻, just another 
 
 * * *
 
-- **MAIL: fagbuleolakunle223@gmail.com**
+- **MAIL: kunlefagbule6@gmail.com**
 
 Hey yoo! If you're having any issues with my writeups or articles, feel free to send me a DM on Twitter `@EFagbule`. I'm always here to help! xD

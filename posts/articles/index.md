@@ -6,7 +6,7 @@ title:  Articles.
 <h2 class="menu-header" id="index"><a href="../../index.html">Root</a></h2>
 <hr>
 
-![image](https://R3D-Z3E.github.io/)
+![image](https://R3D-Z3E.github.io/posts/articles/images/18ab473bfc12c28bda2631d66b101e3b.gif)
 
 * * *
 <h3 class="menu-header" id="cyberseclabs">Hacking Cheatsheet|Blog|Articles|Resources|Notes....</h3>

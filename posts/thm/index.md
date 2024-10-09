@@ -10,7 +10,7 @@ title:  TryHackMe.
 
 * * *
 <h4 class="menu-header" id="tryhackme">TryHackMe:</h4>
-Discover CyberSecLabs. With our growing platform delivering beginner hacking content to advanced active directory labs.
+New to security? No problem! We have learning paths that will teach you the fundamental cyber security skills, which will help set you up to land a job in cyber security..
 <hr>
 <hr>
 
@@ -32,7 +32,7 @@ Discover CyberSecLabs. With our growing platform delivering beginner hacking con
 - [[May 10 2023]] [DavesBlog](https://h4ckyou.github.io/posts/thm/posts/davesblog.html) `NOSQLi, NodeJS Command Injection, MongoDB Enum, BinExp`
 - [[May 10 2023]] [Fortress](https://h4ckyou.github.io/posts/thm/posts/fortress.html) `Python Compiled Binary, Hash Collision, ADM Group Log File Reading`
 - [[May 10 2023]] [GameBuzz](https://h4ckyou.github.io/posts/thm/posts/gamebuzz.html) `Python Pickle Deserilization, Port Knock, ACL, Knockd Service Abuse`
-- [[May 25 2023]] [Weasel](https://h4ckyou.github.io/posts/thm/posts/weasel.html) `Jupyter, WSL, Mounting` -->
+- [[May 25 2023]] [Weasel](https://h4ckyou.github.io/posts/thm/posts/weasel.html) `Jupyter, WSL, Mounting` 
 - [[June 23 2023]] [Source](https://sec-fortress.github.io/posts/thm/posts/source.html) `Webmin, Metasploit`
 - [[June 24 2023]] [Agent Sudo](https://sec-fortress.github.io/posts/thm/posts/agentsudo.html) `BruteForce, Redirections, Steganography`
 - [[Aug. 10 2023]] [Simple CTF](https://sec-fortress.github.io/posts/thm/posts/simplectf.html) `Unauthenticated SQLI, Encoding`
@@ -58,4 +58,4 @@ Discover CyberSecLabs. With our growing platform delivering beginner hacking con
 - [[Feb. 09 2024]] [Kenobi](https://sec-fortress.github.io/posts/thm/posts/Kenobi.html) `Information disclosure, ProFTPd Mod_copy (CVE-2015-3306), Path Variable Manipulation`
 - [[Mar. 08 2024]] [Opacity](https://sec-fortress.github.io/posts/thm/posts/Opacity.html) `Remote file Upload, .kdbx decryption, PHP privilege escalation`
 - [[Mar. 11 2024]] [Retro](https://sec-fortress.github.io/posts/thm/posts/Retro.html) `Directory fuzzing, wpscan, SeImpersonatePrivilege`
-- [[Jul. 05 2024]] [Publisher](https://sec-fortress.github.io/posts/thm/posts/publisher.html) `Fuzzing, SPIP form PHP Injection, Broken IAM, Apparmor`
+- [[Jul. 05 2024]] [Publisher](https://sec-fortress.github.io/posts/thm/posts/publisher.html) `Fuzzing, SPIP form PHP Injection, Broken IAM, Apparmor`-->

@@ -6,7 +6,7 @@ title:  HackMyVM.
 <h2 class="menu-header" id="indexhtml"><a href="../../index.html">Root</a></h2>
 <hr>
 
-![image](https://sec-fortress.github.io/posts/HackMyVM/images/hackmyvm.png)
+![image](https://R3D-Z3E.github.io/posts/HackMyVM/images/hackmyvm1.png)
 
 * * *
 <h4 class="menu-header" id="hackmyvm">HackMyVM:</h4>

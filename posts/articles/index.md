@@ -12,7 +12,7 @@ title:  Articles.
 <hr>
 <hr>
 
-- [[Feb 27 2023]] [Windows Privilege Escalation](https://markuched13.github.io/posts/articles/winprivesc_cheatsheet.html) `Windows Privilege Escalation CheatSheet`
+<!-- - [[Feb 27 2023]] [Windows Privilege Escalation](https://markuched13.github.io/posts/articles/winprivesc_cheatsheet.html) `Windows Privilege Escalation CheatSheet`
 - [[Mar 12 2023]] [SQli](https://h4ckyou.github.io/posts/articles/posts/sqli.html) `SQL Injection`
 - [[Mar 12 2023]] [Authentication](https://h4ckyou.github.io/posts/articles/posts/authentication.html) `Authentication Bypass`
 - [[Mar 13 2023]] [File Upload Vulnerability](https://h4ckyou.github.io/posts/articles/posts/fileupload.html) `File Upload Vuln`
@@ -34,4 +34,4 @@ title:  Articles.
 - [[Jan 20 2023]] [Abusing dangerous privileges - Windows](https://sec-fortress.github.io/posts/articles/posts/Abusing_dangerous_privileges.html) `SeBackup/SeRestore, SeTakeOwnership, SeImpersonate/SeAssignPrimaryToken`
 - [[Feb 21 2023]] [DNS with AWS Route 53](https://sec-fortress.github.io/posts/articles/posts/DNS%20with%20AWS%20Route%2053.html) `Hosted Zones, Routing Policies, S3 Records`
 - [[Aug 15 2023]] [QuickEnumCheatsheet](https://sec-fortress.github.io/posts/articles/posts/QuickEnumCheatsheet.html) `Enumeration, CheatSheet`
-- [[Sep 09 2024]] [Windows PrivEsc](https://sec-fortress.github.io/posts/articles/posts/winprivesc.html) `Lab, Practice, Privilege Escalation`
+- [[Sep 09 2024]] [Windows PrivEsc](https://sec-fortress.github.io/posts/articles/posts/winprivesc.html) `Lab, Practice, Privilege Escalation` -->

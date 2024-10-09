@@ -6,7 +6,7 @@ title:  PwnTillDawn.
 <h2 class="menu-header" id="index"><a href="../../index.html">Root</a></h2>
 <hr>
 
-![image](https://R3D-Z3E.github.io/posts/ptd/images/pwntilldwn1.png)
+![image](https://R3D-Z3E.github.io/posts/ptd/images/pwntilldawn11.png)
 
 * * *
 <h4 class="menu-header" id="pwntilldawn">PwnTillDawn:</h4>

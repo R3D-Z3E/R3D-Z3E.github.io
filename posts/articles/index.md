@@ -7,7 +7,7 @@ title:  Articles.
 <hr>
 
 * * *
-<h3 class="menu-header" id="cyberseclabs">Hacking Cheatsheet/Blogs/Articles/Resources/Notes....</h3>
+<h3 class="menu-header" id="cyberseclabs">Hacking Cheatsheet|Blog|Articles|Resources/Notes....</h3>
 \m/
 <hr>
 <hr>

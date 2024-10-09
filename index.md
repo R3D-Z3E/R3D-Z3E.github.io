@@ -19,6 +19,8 @@ title: Home
 * * *
 
 Welcome to the Midnight Hack! 🦇 By day, I'm Ezequiel☠️💻, just another tech enthusiast. But when the clock strikes midnight, I become the Dark Knight of Cybersecurity—scouring the web, defusing threats, and dropping knowledge bombs. Just like Batman prowling Gotham's rooftops, I lurk in the shadows of the digital world, tackling vulnerabilities and cracking codes. So suit up, night owls, and let’s hunt for exploits under the cover of darkness!,
+
+
 * * *
 ### **TryHackMe Writeups:~#**
 * * *
@@ -108,12 +110,12 @@ Welcome to the Midnight Hack! 🦇 By day, I'm Ezequiel☠️💻, just another 
 - [[Sep. 06 2023]] [Stuntman Mike](https://sec-fortress.github.io/posts/ptd/posts/Stuntman%20Mike.html) `SSH Brute force, Sudo Privilege Escalation`
 - [[Sep. 16 2023]] [Junior Dev](https://sec-fortress.github.io/posts/ptd/posts/JuniorDev.html) `Bruteforcing, Jenkins RCE, Pivoting, Python Command Injection`
 - [[Nov. 06 2023]] [ElMariachi-PC](https://sec-fortress.github.io/posts/ptd/posts/ElMariachi-PC.html) `ThinVNC Authentication Bypass, RDP`
-- [[Nov. 06 2023]] [Silence](https://sec-fortress.github.io/posts/ptd/posts/Silence.html) `LFI, Enumeration, Loops, Sudo Privilege Escalation`
+- [[Nov. 06 2023]] [Silence](https://sec-fortress.github.io/posts/ptd/posts/Silence.html) `LFI, Enumeration, Loops, Sudo Privilege Escalation` -->
 
 * * *
 ### **ProvingGrounds Writeups:~#**
 * * *
-- [[Jun. 09 2023]] [dc-2](https://sec-fortress.github.io/posts/pg/posts/dc2.html) `GTFOBins, Restricted Environment, Brute forcing`
+<!-- - [[Jun. 09 2023]] [dc-2](https://sec-fortress.github.io/posts/pg/posts/dc2.html) `GTFOBins, Restricted Environment, Brute forcing`
 - [[Feb. 20 2024]] [Muddy](https://sec-fortress.github.io/posts/pg/posts/muddy.html) `XXE Injection (CVE-2019-1010268), Credential theft, PUT-method-WebDav, Cronjob privilege escalation`
 - [[Feb. 20 2024]] [Filmsy](https://sec-fortress.github.io/posts/pg/posts/Filmsy.html) `Remote Code Execution, Cron Privilege Escalation`
 - [[Feb. 20 2024]] [Pebbbles](https://sec-fortress.github.io/posts/pg/posts/pebbles.html) `Reflected XSS, Local File Inclusion, SQLi to RCE`
@@ -126,7 +128,7 @@ Welcome to the Midnight Hack! 🦇 By day, I'm Ezequiel☠️💻, just another 
 - [[Aug. 10 2024]] [Nickel](https://sec-fortress.github.io/posts/pg/posts/Nickel.html) `GET2POST, hardcoded credentials, pdf2john, API privilege escalation`
 - [[Aug. 10 2024]] [Shenzi](https://sec-fortress.github.io/posts/pg/posts/Shenzi.html) `Least Privilege Violation(SMB), Guessable WP endpoint, PrivEsc; misconfigured registry settings(AlwaysInstallElevated)`
 - [[Aug. 10 2024]] [Slort](https://sec-fortress.github.io/posts/pg/posts/Slort.html) `RFI2RCE, PrivEsc; Scheduled Task`
-- [[Aug. 15 2024]] [Nara](https://sec-fortress.github.io/posts/pg/posts/Nara.html) `ACtive Directory, Phishing(.LNK upload to NTLM Theft), Crackmapexec, RID Brute, Bloodhound, ADCS(ESC1)`
+- [[Aug. 15 2024]] [Nara](https://sec-fortress.github.io/posts/pg/posts/Nara.html) `ACtive Directory, Phishing(.LNK upload to NTLM Theft), Crackmapexec, RID Brute, Bloodhound, ADCS(ESC1)`-->
 
 
 

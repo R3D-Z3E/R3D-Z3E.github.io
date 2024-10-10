@@ -59,3 +59,5 @@ New to security? No problem! We have learning paths that will teach you the fund
 - [[Mar. 08 2024]] [Opacity](https://sec-fortress.github.io/posts/thm/posts/Opacity.html) `Remote file Upload, .kdbx decryption, PHP privilege escalation`
 - [[Mar. 11 2024]] [Retro](https://sec-fortress.github.io/posts/thm/posts/Retro.html) `Directory fuzzing, wpscan, SeImpersonatePrivilege`
 - [[Jul. 05 2024]] [Publisher](https://sec-fortress.github.io/posts/thm/posts/publisher.html) `Fuzzing, SPIP form PHP Injection, Broken IAM, Apparmor`-->
+
+- [[Oct. 10 2024]] [Basic Penetesting](https://R3D-Z3E.github.io/posts/thm/posts/Basic-Penetesting.html) `Web App Pentesting, Privilege Escalation`

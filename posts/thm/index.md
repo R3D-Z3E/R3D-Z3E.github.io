@@ -60,4 +60,4 @@ New to security? No problem! We have learning paths that will teach you the fund
 - [[Mar. 11 2024]] [Retro](https://sec-fortress.github.io/posts/thm/posts/Retro.html) `Directory fuzzing, wpscan, SeImpersonatePrivilege`
 - [[Jul. 05 2024]] [Publisher](https://sec-fortress.github.io/posts/thm/posts/publisher.html) `Fuzzing, SPIP form PHP Injection, Broken IAM, Apparmor`-->
 
-
+- [[Oct. 10 2024]] [Baic Pentesting](https://r3d-z3e.github.io/posts/thm/posts/Basic-Pentesting.html) `Web App Testing, PrivEsc`

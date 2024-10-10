@@ -18,7 +18,7 @@ title: Home
 ### Whoami:~#
 * * *
 
-Welcome to the Midnight Hack! 🦇 By day, I'm Ezequiel☠️💻, just another tech enthusiast. But when the clock strikes midnight, I become the Dark Knight of Cybersecurity—scouring the web, defusing threats, and dropping knowledge bombs. Just like Batman prowling Gotham's rooftops, I lurk in the shadows of the digital world, tackling vulnerabilities and cracking codes. So suit up, night owls, and let’s hunt for exploits under the cover of darkness!,
+Welcome to the Midnight Hack! 🦇 By day, I'm Ezequiel☠️💻, just another tech enthusiast. But when the clock strikes midnight, I become the Dark Knight of Cybersecurity scouring the web, defusing threats, and dropping knowledge bombs. Just like Batman prowling Gotham's rooftops, I lurk in the shadows of the digital world, tackling vulnerabilities and cracking codes. So suit up, night owls, and let’s hunt for exploits under the cover of darkness!,
 
 
 * * *
@@ -162,4 +162,4 @@ Welcome to the Midnight Hack! 🦇 By day, I'm Ezequiel☠️💻, just another 
 
 - **MAIL: kunlefagbule6@gmail.com**
 
-Stuck decrypting my writeups or articles? No Bat-Signal needed! Just drop me a DM on Twitter `@EFagbule`, and I'll swoop in like your personal tech-sidekick, ready to help! 🦇💬
+Stuck decrypting my writeups or articles? No Bat Signal needed! Just drop me a DM on Twitter `@EFagbule`, and I'll swoop in like your personal tech sidekick, ready to help! 🦇💬

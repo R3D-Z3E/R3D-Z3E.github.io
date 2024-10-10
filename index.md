@@ -162,4 +162,4 @@ Welcome to the Midnight Hack! 🦇 By day, I'm Ezequiel☠️💻, just another 
 
 - **MAIL: kunlefagbule6@gmail.com**
 
-Stuck decrypting my writeups or articles? No Bat-Signal needed! Just drop me a DM on Twitter @EFagbule, and I'll swoop in like your personal tech-sidekick, ready to help! 🦇💬
+Stuck decrypting my writeups or articles? No Bat-Signal needed! Just drop me a DM on Twitter `@EFagbule`, and I'll swoop in like your personal tech-sidekick, ready to help! 🦇💬

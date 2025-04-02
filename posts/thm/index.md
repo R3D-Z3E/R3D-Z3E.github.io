@@ -61,4 +61,4 @@ New to security? No problem! We have learning paths that will teach you the fund
 - [[Jul. 05 2024]] [Publisher](https://sec-fortress.github.io/posts/thm/posts/publisher.html) `Fuzzing, SPIP form PHP Injection, Broken IAM, Apparmor`-->
 
 - [[Oct. 10 2024]] [Basic Pentesting](https://r3d-z3e.github.io/posts/thm/posts/Basic-Pentesting.html) `Web App Testing, PrivEsc`
-- [[April 1 2025]] [Biling](https://r3d-z3e.github.io/posts/thm/posts/BILING.html) `CMS, Fail2ban, PrivEsc`
+- [[April 1 2025]] [BILING](https://r3d-z3e.github.io/posts/thm/posts/BILLING.html) `CMS, Fail2ban, PrivEsc`

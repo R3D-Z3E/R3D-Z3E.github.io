@@ -1,4 +1,4 @@
-# **BILING**
+# **BILLING**
 
 ***
 Difficulty: Easy

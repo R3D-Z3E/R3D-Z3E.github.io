@@ -1,7 +1,21 @@
+# **BILING**
 
-![](https://i.imgur.com/ig6eZF1.png)
+***
+Difficulty: Easy
 
-Another night to pull up againn. We go againnnnn!!!!!
+![](https://i.imgur.com/b0ZPJey.png)
+
+***
+
+***
+I started this box with `Pull up` by Legendary ZerryDL after been away from boxes for a while due to personal reasons
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4bMbA8VYJMC2QKJYH8PDpr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+***
+
+
+Another night to pull up againn, We go againnnnn
 
 Ion know what this box is all about what we are about to find out innit 
 
@@ -161,3 +175,6 @@ BecauseFail2Ban runs with elevated privileges, the shell was spawned with **roo
 With the root shell successfully obtained, I navigated to the `/root` directory and accessed the final flag!
 
 ![](https://i.imgur.com/VlS9ATs.png)
+
+
+<button onclick="window.location.href='https://R3D-Z3E.github.io';">Back To Home螥</button>
